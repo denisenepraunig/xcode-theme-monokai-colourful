@@ -7,6 +7,11 @@ Theme colours in the **Source Editor**.
 
 ![Screenshot Source Editor for Xcode theme monokai colourful](./screenshot-theme.png)
 
+## blue-strings branch 🔵
+Currently there is a branch with blue coloured strings called `blue-strings`. Checkout this branch if you want to have the blue strings 💙 instead of red strings ❤️.
+
+![Screenshot blue strings](./screenshot-blue-strings.png)
+
 ## Installation
 
 ### Installation using the provided shell script
