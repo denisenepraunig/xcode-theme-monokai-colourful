@@ -59,15 +59,15 @@
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.91194 0.888054 0.872512 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNS-Regular - 17.0</string>
+	<string>.SFNS-Regular - 18.2</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.91194 0.888054 0.872512 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNS-Regular - 27.0</string>
+	<string>.SFNS-Regular - 31.2</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.91194 0.888054 0.872512 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNS-Regular - 21.0</string>
+	<string>.SFNS-Regular - 23.4</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.91194 0.888054 0.872512 1</string>
 	<key>DVTMarkupTextStrongFont</key>
@@ -91,7 +91,7 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.167029 0.171691 0.1463 1</string>
+	<string>0.2 0.2 0.2 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.954082 0.954082 0.954082 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
