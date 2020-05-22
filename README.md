@@ -33,7 +33,7 @@ Run the install script inside the cloned repository.
 
 ### Manual installation
 
-1. Copy **Monokai Colourful.xccolortheme** to the Xcode's ```FontAndColorThemes``` folder ```(~/Library/Developer/Xcode/UserData/FontAndColorThemes/)```. 
+1. Copy **Monokai Colourful.xccolortheme** to the Xcode's `FontAndColorThemes` folder `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`. 
 ⚠️ *Note that the directory might not exist.* ⚠️
 2. Restart Xcode.
 3. Go to `Xcode` > `Preferences` > `Fonts & Colors`.
