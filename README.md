@@ -9,23 +9,32 @@ Theme colours in the **Source Editor**.
 
 ## Installation
 
-### Using the provided shell script
+### Installation using the provided shell script
 
-1. Clone the repository
+#### 1. Clone the repository 
+
+##### Option A) Clone the repository via ssh
 
 ```bash
 git clone git@github.com:denisenepraunig/xcode-theme-monokai-colourful.git
 ```
 
-2. Run the install script inside the cloned repository.
-
+##### Option B) Clone the repository via https
 ```bash
-sh install.sh
+git clone https://github.com/denisenepraunig/xcode-theme-monokai-colourful.git
 ```
 
-### Manual
+#### 2. Install the theme
+Run the install script inside the cloned repository.
 
-1. Copy **Monokai Colourful.xccolortheme** to the Xcode's ``FontAndColorThemes`` folder ``(~/Library/Developer/Xcode/UserData/FontAndColorThemes/)``. *Note that the directory might not exist.*
+```bash
+./install.sh
+```
+
+### Manual installation
+
+1. Copy **Monokai Colourful.xccolortheme** to the Xcode's ```FontAndColorThemes``` folder ```(~/Library/Developer/Xcode/UserData/FontAndColorThemes/)```. 
+⚠️ *Note that the directory might not exist.* ⚠️
 2. Restart Xcode.
 3. Go to `Xcode` > `Preferences` > `Fonts & Colors`.
 4. Select **Monokai Colourful**.
